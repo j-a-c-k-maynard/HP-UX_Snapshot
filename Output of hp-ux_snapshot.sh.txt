@@ -7,16 +7,16 @@ Fri Feb 24 13:30:56 PST 2006                                      snapshot 2.03
 
 
 Company Name     : Jack Maynard
-System ID        : hp10sso1
+System ID        : xxxxxxxxx
 
-Host Name        : hp10sso1
-Domain Name      : zso.cpqcorp.net
+Host Name        : xxxxxxxxx
+Domain Name      : xxx.xxx.xxx
 System Type      : 9000/898
 Operating System : HP-UX B.11.00 rev. U
-SPU ID           : 645673361
+SPU ID           : 645345361
 User License     : unlimited-user
-IP  addr (lan0)  : 16.87.50.133
-MAC addr (lan0)  : 0x0060B083CA5D
+IP  addr (lan0)  : xxx.xxx.xxx.xxx
+MAC addr (lan0)  : 0x0060B083CB5D
 Real Memory      :  Mbytes
 Swap Space       : 384 Mbytes on /dev/vg00/lvol2
 Last Reboot      : Oct 14 09:49
