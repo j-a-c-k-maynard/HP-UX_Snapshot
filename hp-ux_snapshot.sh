@@ -6,13 +6,12 @@
 #   Program:   snapshot ver 3.0, HP-UX System Documentation Tool         #
 #                                                                        # 
 #    Author:   Jack Maynard,                                             # 
-#              Account Support Engineer, Northwest ASO, Bellevue WA      #
 #                                                                        #
 #              Please direct comments, suggestions and/or bug-fixes      #
-#              to jack_maynard@hp.com                                    #
+#              to jack@maynard.com                                       #
 #                                                                        #
 # DISCLAIMER:  This script is a contributed utility, no official         # 
-#              support for it will be provided by Hewlett-Packard.       # 
+#              support for it will be provided.                          # 
 #                                                                        #
 #  Important:  If you are running on a 9.x O/S, please configure         #
 #              the shell on line 1 to /bin/ksh.  For 10 & 11 systems     #
